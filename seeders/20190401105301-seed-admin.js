@@ -13,7 +13,7 @@ module.exports = {
       }], {});
     */
     return queryInterface.bulkInsert('Users', [{
-      name: 'admin',
+      username: 'admin',
       password: 'admin',
       role: 'admin'
     }], {});
