@@ -31,4 +31,4 @@ $nodemon app
 
 
 
- Access the Server side via http://localhost:3000/ or <https://blueberry-crumble-46845.herokuapp.com/>
+ Access via http://localhost:3000/ or <https://blueberry-crumble-46845.herokuapp.com/>
